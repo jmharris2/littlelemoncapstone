@@ -13,7 +13,6 @@
          background-color: #333333;
          color: #edefee;
          padding: 20px 0;
-         /* border-radius: 8px; */
           margin-right: 80px;
          border: 4px solid #edefee;
 }
@@ -47,9 +46,7 @@ input,select{
     margin-left: 20px;
 }
 .submit-btn{
-    /* width: 150px; */
     height: 28px;
-    /* margin-left: 40px; */
     margin-top: 10px;
     border-radius: 2px;
     background-color: #f4ce14;

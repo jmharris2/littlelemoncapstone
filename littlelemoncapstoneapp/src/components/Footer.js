@@ -25,9 +25,9 @@ function Footer(){
         </nav>
         <nav>
       <ul>
-        <li><a className="footer-a" href="#"> <FontAwesomeIcon icon={faPhone} className="icon-nav"  /> +27 21 480 0431</a></li>
-        <li><a className="footer-a" href="#"><FontAwesomeIcon icon={faLocationDot} className="icon-nav" /> Chicago-34 Bree Street </a></li>
-        <li><a className="footer-a" href="#"> <FontAwesomeIcon icon={faEnvelope} className="icon-nav" /> info@Little-Lemon.com</a></li>
+        <li><a className="footer-a" href="#"> <FontAwesomeIcon icon={faPhone} className="icon-nav"  /> 1-123-235-9558</a></li>
+        <li><a className="footer-a" href="#"><FontAwesomeIcon icon={faLocationDot} className="icon-nav" /> Chicago-123 Some Street </a></li>
+        <li><a className="footer-a" href="#"> <FontAwesomeIcon icon={faEnvelope} className="icon-nav" /> info@LittleLemon.com</a></li>
 
       </ul>
 
